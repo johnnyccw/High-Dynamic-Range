@@ -1,0 +1,10 @@
+img0.jpg 0.06s
+img1.jpg 0.13s
+img2.jpg 0.25s
+img3.jpg 0.5s
+img4.jpg 1s
+img5.jpg 1.6s
+img6.jpg 3.2s
+img7.jpg 6s
+img8.jpg 13s
+img9.jpg 25s

@@ -1,0 +1,17 @@
+Python version: 3.6.9
+
+Install requirements:
+    pip3 install -r requirements.txt
+
+Usage: 
+    python3 hdr.py --mode MODE --algo ALGO
+
+    optional arguments:
+    -h, --help   show this help message and exit
+    --mode MODE  0: not using saved radiance map
+                 1: using saved radiance map
+    --algo ALGO  0: using Drago algorithm for tone mapping
+                 1: using Mantiuk algorithm for tone mapping
+                 2: using Reinhard algorithm for tone mapping
+
+My best artifact can be generated with: python3 hdr.py --mode 1 --algo 2 
